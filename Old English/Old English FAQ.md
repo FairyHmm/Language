@@ -45,7 +45,7 @@ You don't. The concept of a "hello" is fairly modern. To greet people in Old Eng
 
 ## What's the difference between ð and þ? Is it like Icelandic?
 
-Old English spelling is not like Icelandic spelling! In Old English þ, ð and th are interchangeable as you see fit. The pronounciation of these (ð, þ, th) is based on their position within a word and not on the symbol used. Please refer to ⁠🗣️pronunciation-guide  for more details.
+Old English spelling is not like Icelandic spelling! In Old English þ, ð and th are interchangeable as you see fit. The pronounciation of these (ð, þ, th) is based on their position within a word and not on the symbol used. Please refer to [TBA] for more details.
 
 ## How do I type Old English symbols?
 
