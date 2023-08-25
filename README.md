@@ -1,5 +1,5 @@
-# Old-English
-A paste for the Old English thread of the Language Simp server.
+# Language
+Language related pastes.
 
 ## Usage
 This is intended to be public knowledge, viewable and editable by everyone.
@@ -12,4 +12,4 @@ This is a [Markdown](https://daringfireball.net/projects/markdown/) projects, so
 Sites like [Markdown Live Preview](https://markdownlivepreview.com/) or software such as [Joplin](https://joplinapp.org/) may be used to edit markdown files side-by-side.
 
 ## Lisence
-[Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), see [LICENSE](https://github.com/FairyHmm/Old-English/blob/main/LICENSE) for details.
+[Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), see [LICENSE](https://github.com/FairyHmm/Language/blob/main/LICENSE) for details.
