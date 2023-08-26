@@ -10,7 +10,7 @@ If there are suggestions about what should be in the list, or advices for how it
 - *Italic texts*: for entries with unsure placement
 
 ### Disclaimer
-The author (Matthew) is biassed towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://discord.com/channels/949775981026115604/949795298178379787/1142076372236386334) in how to learn a language.
+The author (Matthew) is biased towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://discord.com/channels/949775981026115604/949795298178379787/1142076372236386334) in how to learn a language.
 
 ## Vocab / Grammar
 *Good reasources when starting to learn a language, or doing comprehensiable input*
