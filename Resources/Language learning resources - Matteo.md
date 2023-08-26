@@ -1,89 +1,100 @@
+[Original discord message](https://discord.com/channels/949775981026115604/949795298178379787/1144655078855282748)
+
 # Language Learning Reasources
 ## Information
-This is an organized list of websites / softwares that are good reasources to use for language learning. This is not for any specific languages but many of them will not cover all of them.
+An organised list of websites, softwares, among others, that are good resources for language learning. This is a general guide and not for any specific languages, though certain entries will not cover all of them.
 
-I am also byassed towards the comprehensiable input method as I think it's the best and this is based of [my guide](https://discord.com/channels/949775981026115604/949795298178379787/1142076372236386334) in how to learn a language.
+If there are suggestions about what should be in the list, or advices for how it can be improved, they would be greatly appreciated (contact matthew96521 or fairyhmm on Discord).
 
-If you think something should be in the list that isn't or have advice for what I can improve, please tell me. (Matthew96521)
+### Special
+- *Italic texts*: for entries with unsure placement
 
-If a reasource is in bold it means that I don't know it's good for what category it's under.
+### Disclaimer
+The author (Matthew) is biassed towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://discord.com/channels/949775981026115604/949795298178379787/1142076372236386334) in how to learn a language.
 
 ## Vocab / Grammar
-*These are good reasources to use when you're starting to learn a language or when you're doing comprehensiable input*
+*Good reasources when starting to learn a language, or doing comprehensiable input*
 
 ### Vocab
 - Duolingo
 - Anki
 - Memrise
 - Clozemaster
-- **Lingo Legends**
-- **Duocards**
-- **Reword**
-- **UTalk**
+- *Lingo Legends*
+- *Duocards*
+- *Reword*
+- *UTalk*
 
 ### Both
-- Duolingo (not the best for grammar)
-- **Babel**
-- **Bussu**
-- **Falou**
-- **Rosetta Stone**
-- **Language Transfer**
+- Duolingo*
+- *Babel*
+- *Bussu*
+- *Falou*
+- *Rosetta Stone*
+- *Language Transfer*
 
+*: not the best for grammar
 ## Input
-*These are things that you can use to get comprehensiable input*
+*Resources for comprehensiable input*
 
 ### Reading
-- Physical Books
+- Physical books and e-books
 - LingQ
 
 ### Listening
 - YouTube
+- YouTube Music
 - Audible
 - Spotify
-- Sound Cloud
+- SoundCloud
 - Apple Music
 - LingQ
-- **Lingo Clip**
+- *Lingo Clip*
 
 ### Talking With Natives
 - Discord
 - HelloTalk
 - ChatGTP
-- **HiNative**
-- **Tandem**
+- *HiNative*
+- *Tandem*
 
 ### Videos / Films / TV Shows
 - Netflix
 - Disney+
-- **Woodpecker**
+- *Woodpecker*
 
 ### Other
-- Youtube
+- YouTube
 - Video Games
 - LingQ
-- **Woodpecker**
+- *Woodpecker*
 
 ### Youtube Channels
 - Easy Languages
 
-## Other
+## Miscellaneous
 ### Dictionaries / Translators
-*Translators + AIs aren't always acurate*
+*Translators and AIs are not always acurate*
 - Word Reference
 - Wikitionary
-- **Glosble**
-- Deep-L
-- Google Translate
-- **Yandex Translate**
-- ChatGTP
+- *Glosble*
+- Translators
+    - Deep-L
+    - Google Translate
+    - *Yandex Translate*
+- Chat bots
+    - ChatGTP
+    - Bing AI
+    - Bard
+- *Forvo*
 
 ### Time Management
 - Polylogger
 
 ### Habbit Trackers
 - Physical Habbit Trackers
-- Habitica (better if you using it for other things)
+- Habitica
 - Loop Habbit Tracker
 
 ### Other
-- **Refold**
+- *Refold*
