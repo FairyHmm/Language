@@ -1,100 +1,113 @@
-[Original discord message](https://discord.com/channels/949775981026115604/949795298178379787/1144655078855282748)
-
 # Language Learning Reasources
+## External Links
+- [Original discord message](https://discord.com/channels/949775981026115604/949795298178379787/1144655078855282748)
+- [Google Docs document](https://docs.google.com/document/d/10q1eT3TjPi5OAzeWQF7FPv2DPwuKQHzjrudgi0ua-Mc)
+
 ## Information
 An organised list of websites, softwares, among others, that are good resources for language learning. This is a general guide and not for any specific languages, though certain entries will not cover all of them.
 
+Please note that the entries are sorted alphabetically, with no specific preferences to any particular services.
+
 If there are suggestions about what should be in the list, or advices for how it can be improved, they would be greatly appreciated (contact matthew96521 or fairyhmm on Discord).
 
-### Special
-- *Italic texts*: for entries with unsure placement
+### Notes
+- ⚠️: entries with unsure placement
+- 💰: paid/subscription based services
+- 🔒: freemium services, or free with limitations
 
 ### Disclaimer
-The author (Matthew) is biased towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://discord.com/channels/949775981026115604/949795298178379787/1142076372236386334) in how to learn a language.
+The author (Matthew) is biased towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://github.com/FairyHmm/Language/blob/main/Resources/How%20to%20learn%20a%20language.md) in how to learn a language.
 
 ## Vocab / Grammar
 *Good reasources when starting to learn a language, or doing comprehensiable input*
 
 ### Vocab
-- Duolingo
-- Anki
-- Memrise
-- Clozemaster
-- *Lingo Legends*
-- *Duocards*
-- *Reword*
-- *UTalk*
+- [Anki](https://apps.ankiweb.net/)
+- [Clozemaster](https://www.clozemaster.com/) 🔒
+- [Duocards](https://duocards.com/) ⚠️
+- [Duolingo](https://www.duolingo.com/) 🔒
+- [Lingo Legends](https://www.lingolegend.com/)* ⚠️🔒
+- [Memrise](https://www.memrise.com/)🔒
+- [Reword](https://reword.app/) ⚠️🔒
+- [UTalk](https://utalk.com/) ⚠️💰
 
+*: not available worldwide
 ### Both
-- Duolingo*
-- *Babel*
-- *Bussu*
-- *Falou*
-- *Rosetta Stone*
-- *Language Transfer*
+- [Babbel](https://www.babbel.com/) ⚠️💰
+- [Bussu](https://www.busuu.com/) ⚠️💰
+- [Duolingo](https://www.duolingo.com/)* 🔒
+- [Falou](https://falou.app/) ⚠️🔒
+- [Language Transfer](https://www.languagetransfer.org/) ⚠️
+- [Rosetta Stone](https://www.rosettastone.com/) ⚠️💰
 
-*: not the best for grammar
+*: not focused on grammar
 ## Input
 *Resources for comprehensiable input*
 
 ### Reading
-- Physical books and e-books
-- LingQ
+- Books (physical and digital)
+    - [Assimil](https://www.assimil.com/) 💰
+- [LingQ](https://www.lingq.com/) 🔒
 
 ### Listening
-- YouTube
-- YouTube Music
-- Audible
-- Spotify
-- SoundCloud
-- Apple Music
-- LingQ
-- *Lingo Clip*
+- [Audible](https://audible.com/) 💰
+- [LingoClip](https://lingoclip.com/) ⚠️🔒
+- [LingQ](https://www.lingq.com/) 🔒
+- Music streaming services
+    - [Apple Music](https://music.apple.com/) 💰
+    - [SoundCloud](https://soundcloud.com/) 💰
+    - [Spotify](https://spotify.com/)💰
+    - [YouTube Music](https://music.youtube.com/)* 🔒
+- [YouTube](https://youtube.com/)🔒
 
+*: not available worldwide
 ### Talking With Natives
-- Discord
-- HelloTalk
-- ChatGTP
-- *HiNative*
-- *Tandem*
+- Chat bots
+- [Discord](https://discord.com/) 🔒
+- [HelloTalk](https://www.hellotalk.com/) 🔒
+- [HiNative](https://hinative.com/) ⚠️
+- [Tandem](https://www.tandem.net/) ⚠️🔒
 
 ### Videos / Films / TV Shows
-- Netflix
-- Disney+
-- *Woodpecker*
+- [Disney+](https://www.disneyplus.com/) 💰
+- [Netflix](https://netflix.com/) 💰
+- [Woodpecker](https://www.woodpeckerlearning.com/) ⚠️
 
 ### Other
-- YouTube
+- [LingQ](https://www.lingq.com/) 🔒
 - Video Games
-- LingQ
-- *Woodpecker*
+- [YouTube](https://youtube.com/)
+- [Woodpecker](https://www.woodpeckerlearning.com/) ⚠️
 
-### Youtube Channels
-- Easy Languages
+### YouTube Channels
+- [Easy Languages](https://www.youtube.com/channel/UCqcBu0YyEJH4vfKR--97cng)
 
 ## Miscellaneous
 ### Dictionaries / Translators
 *Translators and AIs are not always acurate*
-- Word Reference
-- Wikitionary
-- *Glosble*
-- Translators
-    - Deep-L
-    - Google Translate
-    - *Yandex Translate*
 - Chat bots
-    - ChatGTP
-    - Bing AI
-    - Bard
-- *Forvo*
+    - [Bard](https://bard.google.com/)
+    - [Bing AI](https://www.bing.com/?/ai/)
+    - [ChatGTP](https://openai.com/chatgpt/) 🔒
+- [Forvo](https://forvo.com/)
+- [Glosble](https://glosbe.com/) ⚠️
+- [TREX](https://tr-ex.me/)
+- Translators
+    - [DeepL](https://www.deepl.com/translator/) 🔒
+    - [Google Translate](https://translate.google.com/)
+    - [Microsoft Translator](https://www.microsoft.com/en-us/translator/)
+    - [Yandex Translate](https://translate.yandex.com/)
+- [Reverso](https://www.reverso.net/) 🔒
+- [WordReference](https://www.wordreference.com/)
+- [Wiktionary](https://www.wiktionary.org/)
 
 ### Time Management
-- Polylogger
+- [Polylogger](https://polylogger.com/) 🔒
 
 ### Habbit Trackers
+- [Habitica](https://habitica.com/) 🔒
+- [Loop Habbit Tracker](http://loophabits.org/)
 - Physical Habbit Trackers
-- Habitica
-- Loop Habbit Tracker
 
 ### Other
-- *Refold*
+- [Refold](https://refold.la/) ⚠️🔒
