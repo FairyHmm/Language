@@ -2,7 +2,7 @@
 ## Info
 This is a guide on an effective method on how to learn a language. Please remember that other methods might work just as well, but this one is thought to be effective.
 
-If there are suggestions about what should be in the list, or advices for how it can be improved, they would be greatly appreciated (contact matthew96521 or fairyhmm on Discord).
+If there are suggestions about what should be in the list, or advices for how it can be improved, they would be greatly appreciated (contact `matthew965` or `fairyhmm` on Discord).
 
 ## Notes:
 - 🔴: Mandatory. It is required in order to be fluent in the language.
