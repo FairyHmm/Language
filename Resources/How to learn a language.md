@@ -19,7 +19,6 @@ If there are suggestions about what should be in the list, or advices for how it
 
 - Learn basic vocabulary and grammar. SRSs (spaced repetition systems), such as Memrise or Anki, can be very helpful for vocabulary while learning the high-frequency words and phrases.
 - Use context and associations: Connect new words to concepts or images in one's mind to make them more memorable. Try to understand the words in context by reading or listening to sentences where the word is used. This will help with the meaning and usage of the word naturally.
-Learning vocabulary is a crucial aspect of language learning. Here are some effective strategies to help you learn and expand your vocabulary in a new language:
 
 ### 3. Basic grammar 🟡
 - For grammar, it can be researched. Alternatively, resources such as Busuu can help assisting this process. Refer to [this guide](https://github.com/FairyHmm/Language/blob/main/Resources/Language%20learning%20resources%20-%20Matteo.md) for a more comprehensive list.
