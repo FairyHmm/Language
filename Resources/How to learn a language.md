@@ -25,7 +25,7 @@ If there are suggestions about what should be in the list, or advices for how it
 - Break down the resources. Rather than overwhelming oneself with all grammar rules at once, focus on one topic at a time. Breaking down the grammar into smaller topics makes it more manageable and easier to grasp.
 
 ### 4. Input 🔴
-- Start exposing to native content in some form. This is a theory called "Comprehensiable Input" or "Language Aquisition", where one listens or reads native content, and (usually subconciously) figures it out from context. [This video](https://youtu.be/J_EQDtpYSNM) explains this nicely.
+- Start exposing to native content in some form. This is a theory called "Comprehensiable Input" or "Language Aquisition", where one listens or reads native content, and (usually subconciously) figures it out from context. [This video](https://www.youtube.com/watch?v=CwjkqUBztiM) explains this nicely.
 - It's a good idea to start with a slower speed, contents meant for learners, or generally easier contents like children's shows. Talking to natives is a brilliant way to do this, as it helps practising writing and/or speaking, and getting input at the same time.
 
 ### 5. Practicing 🟡
