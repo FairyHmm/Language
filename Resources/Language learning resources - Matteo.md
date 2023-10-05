@@ -1,4 +1,4 @@
-# Language Learning Reasources
+# Language Learning Resources
 ## External Links
 - [Original discord message](https://discord.com/channels/949775981026115604/949795298178379787/1144655078855282748)
 - [Google Docs document](https://docs.google.com/document/d/10q1eT3TjPi5OAzeWQF7FPv2DPwuKQHzjrudgi0ua-Mc)
