@@ -8,7 +8,7 @@ An organised list of websites, softwares, among others, that are good resources 
 
 Please note that the entries are sorted alphabetically, with no specific preferences to any particular services.
 
-If there are suggestions about what should be in the list, or advices for how it can be improved, they would be greatly appreciated (contact `matthew965` or `fairyhmm` on Discord).
+If there are suggestions about what should be in the list, or any advice for how it can be improved, they would be greatly appreciated (contact `matthew965` or `fairyhmm` on Discord).
 
 ### Notes
 - ⚠️: entries with unsure placement
