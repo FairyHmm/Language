@@ -10,6 +10,9 @@ Please note that the entries are sorted alphabetically, with no specific prefere
 
 If there are suggestions about what should be in the list, or any advice for how it can be improved, they would be greatly appreciated (contact `matthew965` or `fairyhmm` on Discord).
 
+### Notice
+Lots of the information provided regaridng subscriptions is incorrect. This will hopefully be fixed soon.
+
 ### Notes
 - ⚠️: entries with unsure placement
 - 💰: paid/subscription based services
